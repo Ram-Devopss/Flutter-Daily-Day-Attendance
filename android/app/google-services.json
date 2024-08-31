@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209254970325",
+    "project_id": "apollo-attendance",
+    "storage_bucket": "apollo-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209254970325:android:09c8a15e216e15d896835c",
+        "android_client_info": {
+          "package_name": "com.example.apollo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209254970325-frjsfcjtj1p72c4i86s3s3i0q6ododm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTs_fhl-xhgQR17bi6VZCtSU1epoTYFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209254970325-frjsfcjtj1p72c4i86s3s3i0q6ododm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
